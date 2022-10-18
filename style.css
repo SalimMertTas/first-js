@@ -1,0 +1,23 @@
+body{
+    background-color: gray;
+    font-family: monospace;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 4rem;
+    text-align: center;
+    align-items: center;
+}
+
+#info{
+    font-size: 50px;
+    text-align: center;
+    align-items: center;
+}
+
+#date-id{
+    font-size: 44px;
+    text-align: center;
+    align-items: center;
+}
