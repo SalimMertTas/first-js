@@ -8,6 +8,6 @@ function tarihSaat() {
 setInterval(tarihSaat , 1000);
 
 
-text.innerHTML = ` <strong>${username}</strong> Hoşgeldin! 
+text.innerHTML = `Merhaba, <strong>${username}</strong> Hoşgeldin! 
 <strong>
 Kodluyoruz Frontend Web Development Patikası</strong>'nın <strong>Javascript bölümü</strong> 1. Ödevindesin!`
